@@ -275,139 +275,139 @@
   },
   "164":{
     "PRE":{
+      "ct":177554,
       "mn":725.048,
-      "av":747.517,
       "mx":766.375,
-      "ct":177554
+      "av":747.517
     },
     "WD":{
       "11":{
+        "compass_degrees":247.5,
         "compass_right":-0.923879532511,
-        "ct":1010,
         "compass_up":-0.382683432365,
         "compass_point":"WSW",
-        "compass_degrees":247.5
+        "ct":1010
       },
       "10":{
+        "compass_degrees":225.0,
         "compass_right":-0.707106781187,
-        "ct":1339,
         "compass_up":-0.707106781187,
         "compass_point":"SW",
-        "compass_degrees":225.0
+        "ct":1339
       },
       "13":{
+        "compass_degrees":292.5,
         "compass_right":-0.923879532511,
-        "ct":447,
         "compass_up":0.382683432365,
         "compass_point":"WNW",
-        "compass_degrees":292.5
+        "ct":447
       },
       "12":{
+        "compass_degrees":270.0,
         "compass_right":-1.0,
-        "ct":1563,
         "compass_up":-0.0,
         "compass_point":"W",
-        "compass_degrees":270.0
+        "ct":1563
       },
       "15":{
+        "compass_degrees":337.5,
         "compass_right":-0.382683432365,
-        "ct":74,
         "compass_up":0.923879532511,
         "compass_point":"NNW",
-        "compass_degrees":337.5
+        "ct":74
       },
       "14":{
+        "compass_degrees":315.0,
         "compass_right":-0.707106781187,
-        "ct":51,
         "compass_up":0.707106781187,
         "compass_point":"NW",
-        "compass_degrees":315.0
+        "ct":51
       },
       "1":{
+        "compass_degrees":22.5,
         "compass_right":0.382683432365,
-        "ct":11,
         "compass_up":0.923879532511,
         "compass_point":"NNE",
-        "compass_degrees":22.5
+        "ct":11
       },
       "0":{
+        "compass_degrees":0.0,
         "compass_right":0.0,
-        "ct":40,
         "compass_up":1.0,
         "compass_point":"N",
-        "compass_degrees":0.0
+        "ct":40
       },
       "3":{
+        "compass_degrees":67.5,
         "compass_right":0.923879532511,
-        "ct":197,
         "compass_up":0.382683432365,
         "compass_point":"ENE",
-        "compass_degrees":67.5
+        "ct":197
       },
       "2":{
+        "compass_degrees":45.0,
         "compass_right":0.707106781187,
-        "ct":11,
         "compass_up":0.707106781187,
         "compass_point":"NE",
-        "compass_degrees":45.0
+        "ct":11
       },
       "5":{
+        "compass_degrees":112.5,
         "compass_right":0.923879532511,
-        "ct":126,
         "compass_up":-0.382683432365,
         "compass_point":"ESE",
-        "compass_degrees":112.5
+        "ct":126
       },
       "7":{
+        "compass_degrees":157.5,
         "compass_right":0.382683432365,
-        "ct":891,
         "compass_up":-0.923879532511,
         "compass_point":"SSE",
-        "compass_degrees":157.5
+        "ct":891
       },
       "6":{
+        "compass_degrees":135.0,
         "compass_right":0.707106781187,
-        "ct":316,
         "compass_up":-0.707106781187,
         "compass_point":"SE",
-        "compass_degrees":135.0
+        "ct":316
       },
       "9":{
+        "compass_degrees":202.5,
         "compass_right":-0.382683432365,
-        "ct":684,
         "compass_up":-0.923879532511,
         "compass_point":"SSW",
-        "compass_degrees":202.5
+        "ct":684
       },
       "8":{
+        "compass_degrees":180.0,
         "compass_right":0.0,
-        "ct":1083,
         "compass_up":-1.0,
         "compass_point":"S",
-        "compass_degrees":180.0
+        "ct":1083
       },
       "most_common":{
+        "compass_degrees":270.0,
         "compass_right":-1.0,
-        "ct":1563,
         "compass_up":-0.0,
         "compass_point":"W",
-        "compass_degrees":270.0
+        "ct":1563
       }
     },
     "Season":"winter",
     "Last_UTC":"2019-05-14T18:02:45Z",
     "AT":{
+      "ct":17754,
       "mn":-99.954,
-      "av":-67.791,
       "mx":-16.594,
-      "ct":17754
+      "av":-67.791
     },
     "First_UTC":"2019-05-13T17:23:10Z",
     "HWS":{
+      "ct":7843,
       "mn":0.163,
-      "av":4.064,
       "mx":15.082,
-      "ct":7843
+      "av":4.064
     }
   },
   "165":{
