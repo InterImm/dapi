@@ -2,9 +2,9 @@
   "180":{
     "PRE":{
       "mn":729.0980000000001,
-      "ct":698136,
+      "ct":887769,
       "mx":769.775,
-      "av":752.378
+      "av":752.957
     },
     "WD":{
       "11":{
@@ -12,28 +12,28 @@
         "compass_up":-0.382683432365,
         "compass_degrees":247.5,
         "compass_point":"WSW",
-        "ct":791
+        "ct":828
       },
       "10":{
         "compass_right":-0.707106781187,
         "compass_up":-0.707106781187,
         "compass_degrees":225.0,
         "compass_point":"SW",
-        "ct":1201
+        "ct":1208
       },
       "13":{
         "compass_right":-0.923879532511,
         "compass_up":0.382683432365,
         "compass_degrees":292.5,
         "compass_point":"WNW",
-        "ct":132
+        "ct":533
       },
       "12":{
         "compass_right":-1.0,
         "compass_up":-0.0,
         "compass_degrees":270.0,
         "compass_point":"W",
-        "ct":321
+        "ct":1543
       },
       "15":{
         "compass_right":-0.382683432365,
@@ -103,7 +103,7 @@
         "compass_up":-0.923879532511,
         "compass_degrees":202.5,
         "compass_point":"SSW",
-        "ct":465
+        "ct":486
       },
       "8":{
         "compass_right":0.0,
@@ -113,27 +113,27 @@
         "ct":1471
       },
       "most_common":{
-        "compass_right":0.0,
-        "compass_up":-1.0,
-        "compass_degrees":180.0,
-        "compass_point":"S",
-        "ct":1471
+        "compass_right":-1.0,
+        "compass_up":-0.0,
+        "compass_degrees":270.0,
+        "compass_point":"W",
+        "ct":1543
       }
     },
     "Season":"winter",
-    "Last_UTC":"2019-05-30T23:22:38Z",
+    "Last_UTC":"2019-05-31T04:36:09Z",
     "AT":{
       "mn":-101.053,
-      "ct":13993,
+      "ct":17754,
       "mx":-21.783,
-      "av":-64.258
+      "av":-68.397
     },
     "First_UTC":"2019-05-30T03:56:34Z",
     "HWS":{
-      "mn":0.2,
-      "ct":6637,
+      "mn":0.17,
+      "ct":8325,
       "mx":14.693,
-      "av":4.703
+      "av":4.296
     }
   },
   "179":{
