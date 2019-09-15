@@ -1,0 +1,39 @@
+{
+  "sol_keys": [], 
+  "validity_checks": {
+    "284": {
+      "AT": {
+        "sol_hours_with_data": [
+          15, 
+          16
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          15, 
+          16
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          15, 
+          16
+        ], 
+        "valid": false
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          15, 
+          16
+        ], 
+        "valid": false
+      }
+    }, 
+    "sol_hours_required": 18, 
+    "sols_checked": [
+      "284"
+    ]
+  }
+}
