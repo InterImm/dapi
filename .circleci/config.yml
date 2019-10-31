@@ -34,14 +34,17 @@ jobs:
             git push -q
 
 workflows:
-   version: 2
-   nightly:
-     triggers:
-       - schedule:
-           cron: "0 0 * * *"
-           filters:
-             branches:
-               only:
-                 - gh-pages
-     jobs:
-       - insightweather
+  version: 2
+  commit:
+    jobs:
+      - insightweather
+  nightly:
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - gh-pages
+    jobs:
+      - insightweather
