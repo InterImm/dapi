@@ -1,0 +1,47 @@
+version: 2
+# following https://stackoverflow.com/questions/44773415/how-to-push-a-commit-to-github-from-a-circleci-build-using-a-personal-access-tok
+
+jobs:
+  insightweather:
+    machine: true
+    steps:
+      - run:
+          name: clone code
+          working_directory: ~/workdir
+          command: |
+            cd ~/workdir
+            git clone git@github.com:InterImm/dapi.git
+            cd dapi/
+            git checkout gh-pages
+      - run:
+          name: fetch insight weather data
+          working_directory: ~/workdir/insight-weather-cache
+          command: |
+            cd ~/workdir/dapi/insight-weather-cache
+            echo 'Run insight_weather'
+            curl 'https://mars.nasa.gov/rss/api/?feed=weather&category=insight&feedtype=json&ver=1.0' > data_$(date +%s).json
+            echo 'send metric to cronhub'
+            curl -fsS --retry 3 https://cronhub.io/ping/a3f365a0-e8c0-11e8-a717-6190fde1289d > /dev/null
+            echo 'End insight_weather'
+            echo 'get into repo folder'
+            cd ~/workdir/dapi
+            git config credential.helper 'cache --timeout=120'
+            git config user.email "lei@interimm.org"
+            git config user.name "InterImm Data Bot"
+            git add .
+            git commit -m "collect insight data"
+            # Push quietly to prevent showing the token in log
+            git push -q
+
+workflows:
+   version: 2
+   nightly:
+     triggers:
+       - schedule:
+           cron: "0 0 * * *"
+           filters:
+             branches:
+               only:
+                 - gh-pages
+     jobs:
+       - insightweather
