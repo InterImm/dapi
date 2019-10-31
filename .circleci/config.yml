@@ -35,13 +35,10 @@ jobs:
 
 workflows:
   version: 2
-  commit:
-    jobs:
-      - insightweather
   nightly:
     triggers:
       - schedule:
-          cron: "0 0 * * *"
+          cron: "0 3 * * *"
           filters:
             branches:
               only:
