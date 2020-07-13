@@ -1,0 +1,40 @@
+{
+  "sol_keys": [], 
+  "validity_checks": {
+    "577": {
+      "PRE": {
+        "sol_hours_with_data": [
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17, 
+          18, 
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }
+    }, 
+    "578": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0
+        ], 
+        "valid": false
+      }
+    }, 
+    "sol_hours_required": 18, 
+    "sols_checked": [
+      "577", 
+      "578"
+    ]
+  }
+}
