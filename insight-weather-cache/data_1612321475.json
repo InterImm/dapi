@@ -1,0 +1,337 @@
+{
+  "770": {
+    "First_UTC": "2021-01-25T09:13:11Z", 
+    "Last_UTC": "2021-01-26T09:52:42Z", 
+    "Month_ordinal": 12, 
+    "Northern_season": "late winter", 
+    "PRE": {
+      "av": 712.914, 
+      "ct": 75986, 
+      "mn": 691.5213, 
+      "mx": 734.9605
+    }, 
+    "Season": "winter", 
+    "Southern_season": "late summer", 
+    "WD": {
+      "most_common": null
+    }
+  }, 
+  "771": {
+    "First_UTC": "2021-01-26T09:52:46Z", 
+    "Last_UTC": "2021-01-27T10:32:17Z", 
+    "Month_ordinal": 12, 
+    "Northern_season": "late winter", 
+    "PRE": {
+      "av": 715.602, 
+      "ct": 88778, 
+      "mn": 692.746, 
+      "mx": 737.3223
+    }, 
+    "Season": "winter", 
+    "Southern_season": "late summer", 
+    "WD": {
+      "most_common": null
+    }
+  }, 
+  "772": {
+    "First_UTC": "2021-01-27T10:32:21Z", 
+    "Last_UTC": "2021-01-28T11:11:52Z", 
+    "Month_ordinal": 12, 
+    "Northern_season": "late winter", 
+    "PRE": {
+      "av": 719.71, 
+      "ct": 73112, 
+      "mn": 689.896, 
+      "mx": 736.549
+    }, 
+    "Season": "winter", 
+    "Southern_season": "late summer", 
+    "WD": {
+      "most_common": null
+    }
+  }, 
+  "773": {
+    "First_UTC": "2021-01-28T11:11:56Z", 
+    "Last_UTC": "2021-01-29T11:51:27Z", 
+    "Month_ordinal": 12, 
+    "Northern_season": "late winter", 
+    "PRE": {
+      "av": 717.952, 
+      "ct": 79088, 
+      "mn": 693.9911, 
+      "mx": 736.3956
+    }, 
+    "Season": "winter", 
+    "Southern_season": "late summer", 
+    "WD": {
+      "most_common": null
+    }
+  }, 
+  "775": {
+    "First_UTC": "2021-01-30T12:31:07Z", 
+    "Last_UTC": "2021-01-31T13:10:37Z", 
+    "Month_ordinal": 12, 
+    "Northern_season": "late winter", 
+    "PRE": {
+      "av": 717.701, 
+      "ct": 88778, 
+      "mn": 697.9939, 
+      "mx": 738.4849
+    }, 
+    "Season": "winter", 
+    "Southern_season": "late summer", 
+    "WD": {
+      "most_common": null
+    }
+  }, 
+  "776": {
+    "First_UTC": "2021-01-31T13:10:42Z", 
+    "Last_UTC": "2021-02-01T13:50:12Z", 
+    "Month_ordinal": 12, 
+    "Northern_season": "late winter", 
+    "PRE": {
+      "av": 720.056, 
+      "ct": 116182, 
+      "mn": 698.9845, 
+      "mx": 737.5977
+    }, 
+    "Season": "winter", 
+    "Southern_season": "late summer", 
+    "WD": {
+      "most_common": null
+    }
+  }, 
+  "sol_keys": [
+    "770", 
+    "771", 
+    "772", 
+    "773", 
+    "775", 
+    "776"
+  ], 
+  "validity_checks": {
+    "770": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17, 
+          18, 
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": true
+      }
+    }, 
+    "771": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17, 
+          18, 
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": true
+      }
+    }, 
+    "772": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": true
+      }
+    }, 
+    "773": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          15, 
+          16, 
+          17, 
+          18, 
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": true
+      }
+    }, 
+    "774": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }
+    }, 
+    "775": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17, 
+          18, 
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": true
+      }
+    }, 
+    "776": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17, 
+          18, 
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": true
+      }
+    }, 
+    "777": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5
+        ], 
+        "valid": false
+      }
+    }, 
+    "sol_hours_required": 18, 
+    "sols_checked": [
+      "770", 
+      "771", 
+      "772", 
+      "773", 
+      "774", 
+      "775", 
+      "776", 
+      "777"
+    ]
+  }
+}
