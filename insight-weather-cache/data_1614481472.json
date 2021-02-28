@@ -1,0 +1,154 @@
+{
+  "788": {
+    "First_UTC": "2021-02-12T21:05:46Z", 
+    "Last_UTC": "2021-02-13T21:45:17Z", 
+    "Month_ordinal": 12, 
+    "Northern_season": "late winter", 
+    "PRE": {
+      "av": 721.893, 
+      "ct": 103729, 
+      "mn": 700.0395, 
+      "mx": 741.2446
+    }, 
+    "Season": "winter", 
+    "Southern_season": "late summer", 
+    "WD": {
+      "most_common": null
+    }
+  }, 
+  "sol_keys": [
+    "788"
+  ], 
+  "validity_checks": {
+    "788": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17, 
+          18, 
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": true
+      }
+    }, 
+    "789": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }
+    }, 
+    "793": {
+      "AT": {
+        "sol_hours_with_data": [
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }
+    }, 
+    "794": {
+      "AT": {
+        "sol_hours_with_data": [
+          0, 
+          1
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          0, 
+          1
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7
+        ], 
+        "valid": false
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          0, 
+          1
+        ], 
+        "valid": false
+      }
+    }, 
+    "sol_hours_required": 18, 
+    "sols_checked": [
+      "788", 
+      "789", 
+      "793", 
+      "794"
+    ]
+  }
+}
