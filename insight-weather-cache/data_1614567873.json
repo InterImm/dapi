@@ -1,0 +1,36 @@
+{
+  "sol_keys": [], 
+  "validity_checks": {
+    "802": {
+      "PRE": {
+        "sol_hours_with_data": [
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }
+    }, 
+    "803": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }
+    }, 
+    "sol_hours_required": 18, 
+    "sols_checked": [
+      "802", 
+      "803"
+    ]
+  }
+}
