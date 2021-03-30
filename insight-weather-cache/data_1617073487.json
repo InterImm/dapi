@@ -1,0 +1,176 @@
+{
+  "824": {
+    "First_UTC": "2021-03-21T20:50:54Z", 
+    "Last_UTC": "2021-03-22T21:30:25Z", 
+    "Month_ordinal": 12, 
+    "Northern_season": "late winter", 
+    "PRE": {
+      "av": 731.523, 
+      "ct": 110269, 
+      "mn": 710.0878, 
+      "mx": 745.8282
+    }, 
+    "Season": "winter", 
+    "Southern_season": "late summer", 
+    "WD": {
+      "most_common": null
+    }
+  }, 
+  "828": {
+    "First_UTC": "2021-03-26T00:49:39Z", 
+    "Last_UTC": "2021-03-27T00:08:45Z", 
+    "Month_ordinal": 12, 
+    "Northern_season": "late winter", 
+    "PRE": {
+      "av": 731.368, 
+      "ct": 107162, 
+      "mn": 714.8108, 
+      "mx": 744.6319
+    }, 
+    "Season": "winter", 
+    "Southern_season": "late summer", 
+    "WD": {
+      "most_common": null
+    }
+  }, 
+  "sol_keys": [
+    "824", 
+    "828"
+  ], 
+  "validity_checks": {
+    "824": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17, 
+          18, 
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": true
+      }
+    }, 
+    "825": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }
+    }, 
+    "826": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2
+        ], 
+        "valid": false
+      }
+    }, 
+    "828": {
+      "PRE": {
+        "sol_hours_with_data": [
+          1, 
+          2, 
+          3, 
+          4, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": true
+      }
+    }, 
+    "829": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15
+        ], 
+        "valid": false
+      }
+    }, 
+    "831": {
+      "PRE": {
+        "sol_hours_with_data": [
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10
+        ], 
+        "valid": false
+      }
+    }, 
+    "sol_hours_required": 18, 
+    "sols_checked": [
+      "824", 
+      "825", 
+      "826", 
+      "828", 
+      "829", 
+      "831"
+    ]
+  }
+}
