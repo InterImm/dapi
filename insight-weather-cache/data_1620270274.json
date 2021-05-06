@@ -1,0 +1,307 @@
+{
+  "861": {
+    "First_UTC": "2021-04-28T21:15:37Z", 
+    "Last_UTC": "2021-04-29T21:55:07Z", 
+    "Month_ordinal": 2, 
+    "Northern_season": "mid spring", 
+    "PRE": {
+      "av": 744.378, 
+      "ct": 66639, 
+      "mn": 726.6498, 
+      "mx": 754.9652
+    }, 
+    "Season": "spring", 
+    "Southern_season": "mid autumn", 
+    "WD": {
+      "most_common": null
+    }
+  }, 
+  "sol_keys": [
+    "861"
+  ], 
+  "validity_checks": {
+    "860": {
+      "AT": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          23
+        ], 
+        "valid": false
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }
+    }, 
+    "861": {
+      "AT": {
+        "sol_hours_with_data": [
+          12, 
+          13, 
+          14, 
+          15
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          12, 
+          13, 
+          14, 
+          15
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": true
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          12, 
+          13, 
+          14, 
+          15
+        ], 
+        "valid": false
+      }
+    }, 
+    "862": {
+      "AT": {
+        "sol_hours_with_data": [
+          5, 
+          6, 
+          7, 
+          8
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          19, 
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }
+    }, 
+    "863": {
+      "AT": {
+        "sol_hours_with_data": [
+          16, 
+          17, 
+          18
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          16, 
+          17, 
+          18
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          16, 
+          17, 
+          18
+        ], 
+        "valid": false
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          16, 
+          17, 
+          18
+        ], 
+        "valid": false
+      }
+    }, 
+    "864": {
+      "AT": {
+        "sol_hours_with_data": [
+          3
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          23
+        ], 
+        "valid": false
+      }
+    }, 
+    "865": {
+      "AT": {
+        "sol_hours_with_data": [
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }
+    }, 
+    "866": {
+      "AT": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          23
+        ], 
+        "valid": false
+      }
+    }, 
+    "867": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }
+    }, 
+    "sol_hours_required": 18, 
+    "sols_checked": [
+      "860", 
+      "861", 
+      "862", 
+      "863", 
+      "864", 
+      "865", 
+      "866", 
+      "867"
+    ]
+  }
+}
