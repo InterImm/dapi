@@ -1,0 +1,102 @@
+{
+  "sol_keys": [], 
+  "validity_checks": {
+    "909": {
+      "PRE": {
+        "sol_hours_with_data": [
+          20
+        ], 
+        "valid": false
+      }
+    }, 
+    "911": {
+      "AT": {
+        "sol_hours_with_data": [
+          11, 
+          12, 
+          13
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          11, 
+          12, 
+          13
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          11, 
+          12, 
+          13
+        ], 
+        "valid": false
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          11, 
+          12, 
+          13
+        ], 
+        "valid": false
+      }
+    }, 
+    "912": {
+      "PRE": {
+        "sol_hours_with_data": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5
+        ], 
+        "valid": false
+      }
+    }, 
+    "914": {
+      "PRE": {
+        "sol_hours_with_data": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }
+    }, 
+    "915": {
+      "PRE": {
+        "sol_hours_with_data": [
+          11, 
+          12
+        ], 
+        "valid": false
+      }
+    }, 
+    "916": {
+      "PRE": {
+        "sol_hours_with_data": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5
+        ], 
+        "valid": false
+      }
+    }, 
+    "sol_hours_required": 18, 
+    "sols_checked": [
+      "909", 
+      "911", 
+      "912", 
+      "914", 
+      "915", 
+      "916"
+    ]
+  }
+}
