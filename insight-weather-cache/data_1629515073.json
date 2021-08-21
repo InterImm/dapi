@@ -1,0 +1,113 @@
+{
+  "sol_keys": [], 
+  "validity_checks": {
+    "964": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }
+    }, 
+    "965": {
+      "AT": {
+        "sol_hours_with_data": [
+          9, 
+          10, 
+          11, 
+          12
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          9, 
+          10, 
+          11, 
+          12
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          9, 
+          10, 
+          11, 
+          12
+        ], 
+        "valid": false
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          9, 
+          10, 
+          11, 
+          12
+        ], 
+        "valid": false
+      }
+    }, 
+    "968": {
+      "PRE": {
+        "sol_hours_with_data": [
+          3, 
+          4, 
+          5, 
+          6, 
+          7
+        ], 
+        "valid": false
+      }
+    }, 
+    "969": {
+      "PRE": {
+        "sol_hours_with_data": [
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }
+    }, 
+    "970": {
+      "PRE": {
+        "sol_hours_with_data": [
+          3, 
+          4, 
+          5, 
+          6, 
+          7
+        ], 
+        "valid": false
+      }
+    }, 
+    "971": {
+      "PRE": {
+        "sol_hours_with_data": [
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }
+    }, 
+    "sol_hours_required": 18, 
+    "sols_checked": [
+      "964", 
+      "965", 
+      "968", 
+      "969", 
+      "970", 
+      "971"
+    ]
+  }
+}
