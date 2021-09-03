@@ -1,0 +1,74 @@
+{
+  "sol_keys": [], 
+  "validity_checks": {
+    "975": {
+      "PRE": {
+        "sol_hours_with_data": [
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }
+    }, 
+    "976": {
+      "PRE": {
+        "sol_hours_with_data": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          23
+        ], 
+        "valid": false
+      }
+    }, 
+    "977": {
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }
+    }, 
+    "981": {
+      "PRE": {
+        "sol_hours_with_data": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }
+    }, 
+    "982": {
+      "PRE": {
+        "sol_hours_with_data": [
+          3, 
+          4, 
+          5
+        ], 
+        "valid": false
+      }
+    }, 
+    "sol_hours_required": 18, 
+    "sols_checked": [
+      "975", 
+      "976", 
+      "977", 
+      "981", 
+      "982"
+    ]
+  }
+}
