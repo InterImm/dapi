@@ -1,0 +1,52 @@
+{
+  "sol_keys": [], 
+  "validity_checks": {
+    "1054": {
+      "PRE": {
+        "sol_hours_with_data": [
+          18
+        ], 
+        "valid": false
+      }
+    }, 
+    "1061": {
+      "AT": {
+        "sol_hours_with_data": [
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17
+        ], 
+        "valid": false
+      }
+    }, 
+    "sol_hours_required": 18, 
+    "sols_checked": [
+      "1054", 
+      "1061"
+    ]
+  }
+}
