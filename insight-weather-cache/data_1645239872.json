@@ -1,0 +1,215 @@
+{
+  "sol_keys": [], 
+  "validity_checks": {
+    "1137": {
+      "AT": {
+        "sol_hours_with_data": [
+          14, 
+          15, 
+          16
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          14, 
+          15, 
+          16
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          14, 
+          15, 
+          16
+        ], 
+        "valid": false
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          14, 
+          15, 
+          16
+        ], 
+        "valid": false
+      }
+    }, 
+    "1138": {
+      "AT": {
+        "sol_hours_with_data": [
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          20, 
+          21, 
+          22, 
+          23
+        ], 
+        "valid": false
+      }
+    }, 
+    "1139": {
+      "AT": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2
+        ], 
+        "valid": false
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          0, 
+          1, 
+          2
+        ], 
+        "valid": false
+      }
+    }, 
+    "1140": {
+      "AT": {
+        "sol_hours_with_data": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6
+        ], 
+        "valid": false
+      }
+    }, 
+    "1143": {
+      "AT": {
+        "sol_hours_with_data": [
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17
+        ], 
+        "valid": false
+      }, 
+      "HWS": {
+        "sol_hours_with_data": [
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17
+        ], 
+        "valid": false
+      }, 
+      "PRE": {
+        "sol_hours_with_data": [
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17
+        ], 
+        "valid": false
+      }, 
+      "WD": {
+        "sol_hours_with_data": [
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16, 
+          17
+        ], 
+        "valid": false
+      }
+    }, 
+    "sol_hours_required": 18, 
+    "sols_checked": [
+      "1137", 
+      "1138", 
+      "1139", 
+      "1140", 
+      "1143"
+    ]
+  }
+}
